@@ -8,6 +8,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
+            "url": "PurplesGithub.github.io",
             "file": "C:\\Users\\Purples\\Desktop\\Yes-or-yes source code\\index.html",
             "webRoot": "${workspaceFolder}"
         },
