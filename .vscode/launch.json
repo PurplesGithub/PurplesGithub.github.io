@@ -8,7 +8,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
-            "file": "C:\\Users\\Purples\\Desktop\\Yes-or-yes source code\\sus.html",
+            "file": "C:\\Users\\Purples\\Desktop\\Yes-or-yes source code\\index.html",
             "webRoot": "${workspaceFolder}"
         },
         
